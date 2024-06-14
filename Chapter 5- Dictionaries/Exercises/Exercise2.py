@@ -4,7 +4,7 @@ glossary = {
     "Loop": "A control flow statement that allows code to be repeatedly executed. Common types include 'for' loops and 'while' loops.",
     "Conditional Statement": "A programming construct that performs different actions based on whether a certain condition evaluates to true or false.",
     "Algorithm": "A step-by-step set of instructions or rules to solve a specific problem or accomplish a particular task in a finite amount of time."
-    }
+}
 
 word = 'Variable'
 print(f"\n{word}: {glossary[word]}")
@@ -19,8 +19,4 @@ word = 'Conditional Statement'
 print(f"\n{word}: {glossary[word]}")
 
 word = 'Algorithm'
-<<<<<<< HEAD
 print(f"\n{word}: {glossary[word]}")
-=======
-print(f"\n{word}: {glossary[word]}")
->>>>>>> 8ad3fc8c8d7add1cf082fac4a0a6c13385a0ffdf
